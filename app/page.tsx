@@ -69,7 +69,7 @@ export default function Home() {
     {/* Photo */}
     <div className="flex-shrink-0">
       <img
-        src="/Images/profile.jpg"
+        src="/public/Images/profile.jpg"
         alt="Karthik profile photo"
         className="
           w-48 h-48 md:w-64 md:h-64
