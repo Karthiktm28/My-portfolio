@@ -27,7 +27,7 @@ export default function Education() {
             Bachelor’s Degree in Computer Science
           </h3>
           <p className="text-slate-400 mt-1">
-            2019 – 2023
+            2020 – 2023
           </p>
           <p className="mt-3 text-slate-300 leading-relaxed">
             Global Academy of Technology (VTU), Bengaluru, India
