@@ -15,12 +15,10 @@ export default function Education() {
             MSc Cloud Native Computing
           </h3>
           <p className="text-slate-400 mt-1">
-            2023 – 2024
+            2024 – 2025
           </p>
           <p className="mt-3 text-slate-300 leading-relaxed">
-            Focused on cloud-native architectures, microservices,
-            container orchestration, DevOps practices, and scalable
-            backend systems.
+            Technological University of the Shannon,Athlone Ireland
           </p>
         </div>
 
@@ -32,9 +30,7 @@ export default function Education() {
             2019 – 2023
           </p>
           <p className="mt-3 text-slate-300 leading-relaxed">
-            Studied core computer science fundamentals including
-            data structures, algorithms, operating systems,
-            databases, and software engineering.
+            Global Academy of Technology (VTU),Bengaluru India
           </p>
         </div>
 
