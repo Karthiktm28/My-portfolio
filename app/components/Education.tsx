@@ -18,7 +18,7 @@ export default function Education() {
             2024 – 2025
           </p>
           <p className="mt-3 text-slate-300 leading-relaxed">
-            Technological University of the Shannon,Athlone Ireland
+            Technological University of the Shannon, Athlone, Ireland
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export default function Education() {
             2019 – 2023
           </p>
           <p className="mt-3 text-slate-300 leading-relaxed">
-            Global Academy of Technology (VTU),Bengaluru India
+            Global Academy of Technology (VTU), Bengaluru, India
           </p>
         </div>
 
